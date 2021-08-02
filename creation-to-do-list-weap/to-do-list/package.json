@@ -2,7 +2,7 @@
   "name": "to-do-list",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://ChardonFrancois.github.io/",
+  "homepage": "https://ChardonFrancois.github.io/To-do-list",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
