@@ -1,0 +1,34 @@
+.placement-chrono {
+  width: 100%;
+  text-align: center;
+  padding: 20px;
+  height: 210px;
+  animation: 2.5s ease-in-out animationStart;
+}
+@keyframes animationStart {
+  from {
+    transform: translateX(700px);
+  }
+  50% {
+    transform: translateY(-150px);
+  }
+  to {
+    transform: scale(1.5);
+  }
+}
+.h2-timer {
+  font-size: 60px;
+}
+
+.chronometre {
+  font-size: 30px;
+}
+
+.hidden {
+  display: none;
+}
+
+.toRight {
+  transform: translateX(600px) translateY(-69px) scale(2);
+  transition-duration: 2s;
+}
