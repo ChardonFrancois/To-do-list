@@ -2,7 +2,7 @@
   "name": "to-do-list",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://ChardonFrancois.github.io/To-do-list/blob/main/creation-to-do-list-weap/to-do-list/public/index.html",
+  "homepage": "https://ChardonFrancois.github.io/To-do-list/blob/main/creation-to-do-list-weap/to-do-list/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
