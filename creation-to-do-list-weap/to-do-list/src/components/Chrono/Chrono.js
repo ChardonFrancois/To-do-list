@@ -57,7 +57,10 @@ export default function Chrono() {
   function reset() {
     clearInterval(time);
     btnStart.disabled = false;
-    (ms = 0), (s = 0), (mn = 0), (h = 0);
+    let ms = 0,
+      s = 0,
+      mn = 0,
+      h = 0;
     // on accède aux différents span par leurs indice
 
     span[0].innerHTML = h + ' h ';
